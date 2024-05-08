@@ -1,6 +1,5 @@
 input: ./ko
 output: .retype/docs/ko
-
 locale: ko
 url: /docs/ko
 branding:
