@@ -25,13 +25,11 @@ jobs:
 
       - uses: retypeapp/action-build@latest
         with:
-            config: retype-en.yml
-            base: docs/en/
+            config: en/retype.yml
 
       - uses: retypeapp/action-build@latest
         with:
-            config: retype-ko.yml
-            base: docs/ko/
+            config: ko/retype.yml
 
       - uses: retypeapp/action-github-pages@latest
         with:

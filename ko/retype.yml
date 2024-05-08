@@ -1,6 +1,7 @@
-input: ./en
-output: .retype/docs/en
-url: /docs/en
+input: ./
+output: .retype/ko
+locale: ko
+url: /two-lang-demo/ko
 branding:
   title: Project Name
   label: Docs
