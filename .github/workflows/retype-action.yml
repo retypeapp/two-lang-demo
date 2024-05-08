@@ -23,13 +23,15 @@ jobs:
         with:
           dotnet-version: 7.0.x
 
-      - uses: retypeapp/action-build@latest
+      - uses: retypeapp/action-build@multi
         with:
             config: en/retype.yml
+            subdir: en
 
-      - uses: retypeapp/action-build@latest
+      - uses: retypeapp/action-build@multi
         with:
             config: ko/retype.yml
+            subdir: ko
 
       - uses: retypeapp/action-github-pages@latest
         with:
