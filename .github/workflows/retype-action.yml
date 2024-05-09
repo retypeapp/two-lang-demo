@@ -21,13 +21,15 @@ jobs:
 
       - uses: retypeapp/action-build@multi
         with:
-            config: en/retype.yml
-            subdir: en
+            config: fr/retype.yml
+            subdir: fr
 
       - uses: retypeapp/action-build@multi
         with:
             config: ko/retype.yml
             subdir: ko
+
+      - uses: retypeapp/action-build@multi
 
       - uses: retypeapp/action-github-pages@latest
         with:

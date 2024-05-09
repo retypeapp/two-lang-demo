@@ -3,4 +3,5 @@
 Add your Korean documentation within this project.
 
 See also:
-  - [English](../en/)
+  - [English](../) documentation
+  - [French](../fr/) documentation

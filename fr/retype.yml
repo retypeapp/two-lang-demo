@@ -1,12 +1,12 @@
 input: ./
-output: .retype/ko
-locale: ko
-url: /two-lang-demo/ko
+output: .retype/fr
+url: /two-lang-demo/fr
 branding:
   title: Docs
-  label: KO
+  label: FR
 edit:
   repo: https://github.com/retypeapp/two-lang-demo
+  base: /fr
 links:
 - text: FR
   link: ../fr
