@@ -1,12 +1,12 @@
 # Welcome
 
-This project demonstrates configuring multiple Retype projects and deploying to GitHub Pages.
+This project demonstrates configuring multiple Retype projects and deploying all to the same GitHub Pages instance.
 
 ## Workflow
 
 The following `.github/workflows/retype-action.yml` is used:
 
-```sh
+```shell
 name: Publish Retype powered website to GitHub Pages
 on:
   workflow_dispatch:
@@ -43,5 +43,4 @@ jobs:
       - uses: retypeapp/action-github-pages@latest
         with:
           update-branch: true
-
 ```
