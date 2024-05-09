@@ -7,7 +7,7 @@ branding:
   label: FR
 edit:
   repo: https://github.com/retypeapp/two-lang-demo
-  base: /fr
+  base: fr
 links:
 - text: FR
   link: ../fr
