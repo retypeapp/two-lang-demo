@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: /two-lang-demo/en/sitemap.xml.gz
