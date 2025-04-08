@@ -21,12 +21,12 @@ jobs:
 
       - uses: retypeapp/action-build@multi2
         with:
-            config: retype.yml
+            config: ko/retype.yml
             output: fr
 
       - uses: retypeapp/action-build@multi2
         with:
-            config: retype.yml
+            config: ko/retype.yml
             output: ko
 
       - uses: retypeapp/action-build@multi2
