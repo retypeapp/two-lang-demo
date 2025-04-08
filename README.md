@@ -2,6 +2,10 @@
 
 This project demonstrates configuring multiple Retype projects and deploying all to the same GitHub Pages instance.
 
+[KO](ko)
+
+[FR](fr)
+
 ## Workflow
 
 The following `.github/workflows/retype-action.yml` is used:
