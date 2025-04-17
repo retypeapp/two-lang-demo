@@ -1,10 +1,10 @@
 # Welcome
 
-This project demonstrates configuring multiple Retype projects and deploying to separate sub-folders within the same GitHub Pages hosted website.
+This project demonstrates configuring multiple projects supporting seperate languages and deploying to sub-folders within the same GitHub Pages hosted website.
 
 See also:
-  - [French](/fr/) documentation
-  - [Korean](/ko/) documentation
+  - :flag-fr: [French](fr/) documentation
+  - :flag-kr: [Korean](ko/) documentation
 
 ## Workflow
 

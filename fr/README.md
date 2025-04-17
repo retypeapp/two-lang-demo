@@ -3,5 +3,5 @@
 Add your French documentation within this project.
 
 See also:
-  - [English](../) documentation
-  - [Korean](../ko/) documentation
+  - :icon-home: [Home](../)
+  - :flag-kr: [Korean](../ko/) documentation
