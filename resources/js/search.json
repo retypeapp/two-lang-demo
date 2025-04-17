@@ -1,1 +1,1 @@
-[[{"l":"Welcome","p":["This project demonstrates configuring multiple Retype projects and deploying all to the same GitHub Pages instance.","KO","FR"]},{"l":"Workflow","p":["The following .github/workflows/retype-action.yml is used:"]}]]
+[[{"l":"Welcome","p":["This project demonstrates configuring multiple Retype projects and deploying to separate sub-folders within the same GitHub Pages hosted website.","See also:","French documentation","Korean documentation"]},{"l":"Workflow","p":["The following .github/workflows/retype-action.yml is used:"]}]]
