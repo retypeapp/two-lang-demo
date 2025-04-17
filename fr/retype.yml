@@ -1,19 +1,32 @@
 input: ./
 output: .retype/fr
-locale: fr
 url: /two-lang-demo/fr
+
 branding:
-  title: Docs
-  label: FR
+  title: Languages
+  label: French
+
+locale: fr
+
+search:
+  languages:
+    - fr
+    - en
+
 edit:
   repo: https://github.com/retypeapp/two-lang-demo
   base: fr
+
 links:
-- text: EN
+- text: Home
   link: ../
-- text: FR
+  icon: home
+- text: French
   link: ../fr
-- text: KO
+  icon: ":flag-fr:"
+- text: Korean
   link: ../ko
+  icon: ":flag-kr:"
+
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
